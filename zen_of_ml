@@ -1,0 +1,49 @@
+The Zen of Machine Learning - In Progress
+
+Welcome to the Zen of Machine Learning. Here you will find some proposed principles to live by as Data Scientists and Machine Learning practitioners.
+The idea is for all of us to share our thoughts and come up with the principles we believe should be followed in order to grow our industry in a positive way.
+Add your contibution with an explanation of the principle you are proposing.
+There are no authors, we are all contibutors. You can add your name at the end of the document weather you contributed or not, as a sign of support.
+
+
+Principles of the Zen of Machine Learning
+(Also feel free to propose a new name for this document) 
+
+1. People First Approach - ALWAYS
+
+  What we do impacts people, our foucs should be on people first all of the time, to make sure that whatever we build is good them, bottom line shold come second.
+  So we shold always ask ourselves: Is what we are building good for people? Will it cause harm? How will it help? Who will it help?
+
+2. There is no such thing as "pure" data
+
+  Data is raw, and in many cases, “convenient”. 
+  We need to understand where the data comes from, how it was collected and how it has been used in the past or if it had an intended use.
+
+3. Biased Data will always yield Biased Models
+
+  We need to look for biases in the data itself and figure out what we can do to clean the data as best we can without introducing our own biases.
+
+4. Stick to the science and avoid pseudoscience
+
+  Be a scientist, do experiments, figure out the truth. Always avoid the temptation of following a desired answer.
+
+5. Accuracy is NOT always the answer
+
+  We need to understand when Accuracy is a good standard, or when we need to use other metrics like Precision, Recall or F1. 
+  This is not a one size fits all situation.
+
+6. A Model will either benefit or hurt the end user
+
+  There is no grey about it. We need to figure out if our models are generating more benefits than problems for the people that use them or will be used on.
+
+7. Either we all win, or we all lose
+
+  The only way to create a sustainable industry, is that we all win, small. 
+  Long term wins that generate benefits and profit, are always better than short term solutions that create a ton of profit and harm.
+  
+  
+  
+ 
+<CONTRIBUTORS AND SUPPORTERS OF THE ZEN OF MACHINE LEARNING>
+
+Jack Raifer Baruch
